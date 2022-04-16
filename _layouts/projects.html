@@ -2,7 +2,11 @@
 layout: default
 ---
 
+{% if site.data.project_list[page.title] %}
 {% assign projects_sorted = site.data.project_list[page.title] | sort: "author" %}
+{% else %}
+{% assign projects_sorted = '' | split: '' %}
+{% endif %}
 
 {% if site.enableTags == true %}
 {% assign tagarray = '' | split: '' %}
@@ -12,11 +16,11 @@ layout: default
 {% endfor %}
 {% endfor %}
 
-<div id="tag-filter" style="margin: auto; width: 50%;">
-    <span class="tag-filter w3-tag w3-theme-tag-on all">Reset</span>
+<div class="tag-group">
+    <span class="tag-filter w3-tag w3-theme-tag-on all w3-round"">Reset</span>
     {% assign taglist = tagarray | uniq | sort %}
     {% for tag in taglist %}
-    <span class="tag-filter w3-tag w3-theme-tag-off" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+    <span class="tag-filter w3-tag w3-theme-tag-off w3-round" style="margin-bottom: 2px;" data-tag="{{ tag | downcase }}">{{ tag }}</span>
     {% endfor %}
 </div>
 
@@ -29,18 +33,22 @@ layout: default
     <div class="project-item w3-col l6 w3-animate-opacity" data-tags='{{ project.tags | jsonify | downcase }}'>
         <div class="w3-card-4 w3-margin">
             <div class="w3-cell-row">
-                <div class="w3-container w3-cell w3-theme-l5" style="width:30%">
-                    <span class="helper"></span>
-                    <img src="{{ project.image }}" alt="{{project.name}}" style="width:100%" />
+                <div class="project-image-item w3-container w3-cell w3-theme-l5">
+                    {% if project.image %}
+                    <img src="{{ project.image }}" alt="{{project.name}}" />
+                    {% endif %}
                 </div>
                 <div class="w3-container w3-display-container w3-cell w3-theme-l1">
-                    <div>
+                    <div class="w3-margin-bottom">
                         <a href="https://github.com/{{url}}" target="_blank" style="text-decoration: none;">
                             <h3 class="w3-text-project-title w3-hover-text-project-title">{{project.author}}/{{project.name}}</h3>
                         </a>
+                        {{project.description}}
                     </div>
                     <div style="margin-bottom: 48px">
-                        <p>{{project.description}}</p>
+                        {% for tag in project.tags %}
+                        <span class="w3-tag w3-theme-tag-on w3-small w3-round">{{ tag }}</span>
+                        {% endfor %}
                     </div>
                     <div class="w3-padding w3-display-bottomleft w3-small" style="font-style: italic">Last Modified {{
                         project.pushed_at | date: "%Y-%m-%d" }}</div>

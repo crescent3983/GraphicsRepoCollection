@@ -1,12 +1,13 @@
-title: Graphics Repository Collection
+title: Computer Graphics Repository
 description: Github Repository Collection of Computer Graphics
 author: David Kuo
+logo: /assets/img/logo.png
+
+baseurl: /GraphicsRepoCollection
+url: https://crescent3983.github.io
+
 linkedin: david-kuo-21707a236
-
-baseurl: "/GraphicsRepoCollection"
-url: "https://crescent3983.github.io"
-
-google_analytics: 
+google_analytics: G-HV6MGLDKED
 
 enableTags: true
 

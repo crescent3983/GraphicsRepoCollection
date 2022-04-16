@@ -2,9 +2,12 @@
 - name: Anti-Aliasing
   image: assets/topics/anti-aliasing.png
   url: topics/anti-aliasing.html
+- name: Ambient Occlusion
+  image: assets/topics/ambient-occlusion.png
+  url: topics/ambient-occlusion.html
 - name: Texturing
   image: assets/topics/texturing.png
   url: topics/texturing.html
 - name: Terrain
-  image: 
+  image: assets/topics/terrain.png
   url: topics/terrain.html

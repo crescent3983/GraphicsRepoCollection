@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="w3-row-padding">
+    {% for topic in site.data.topics %}
+    <div class="w3-col m2 w3-center w3-animate-opacity">
+        <div class="w3-card-2">
+            <a href="{{ site.baseurl }}/{{topic.url}}"><img src="{{topic.image}}" alt="{{topic.name}}" class="w3-hover-opacity" style="width:100%"></a>
+            <div class="w3-container w3-center w3-theme-l1">
+              <p>{{topic.name}}</p>
+            </div>
+          </div>
+    </div>
+    {% endfor %}    
+</div>

@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{% assign projects_sorted = site.data.project_list[page.title] | sort: "author" %}
+
+{% if site.enableTags == true %}
+{% assign tagarray = '' | split: '' %}
+{% for project in projects_sorted %}
+{% for tag in project.tags %}
+{% assign tagarray = tagarray | push: tag %}
+{% endfor %}
+{% endfor %}
+
+<div id="tag-filter" style="margin: auto; width: 50%;">
+    <span class="tag-filter w3-tag w3-theme-tag-on all">Reset</span>
+    {% assign taglist = tagarray | uniq | sort %}
+    {% for tag in taglist %}
+    <span class="tag-filter w3-tag w3-theme-tag-off" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+    {% endfor %}
+</div>
+
+{% endif %}
+
+<div class="w3-row">
+    {% for project in projects_sorted %}
+    {% capture url%}{{project.author}}/{{project.name}}{% endcapture %}
+
+    <div class="project-item w3-col l6 w3-animate-opacity" data-tags='{{ project.tags | jsonify | downcase }}'>
+        <div class="w3-card-4 w3-margin">
+            <div class="w3-cell-row">
+                <div class="w3-container w3-cell w3-theme-l5" style="width:30%">
+                    <span class="helper"></span>
+                    <img src="{{ project.image }}" alt="{{project.name}}" style="width:100%" />
+                </div>
+                <div class="w3-container w3-display-container w3-cell w3-theme-l1">
+                    <div>
+                        <a href="https://github.com/{{url}}" target="_blank" style="text-decoration: none;">
+                            <h3 class="w3-text-project-title w3-hover-text-project-title">{{project.author}}/{{project.name}}</h3>
+                        </a>
+                    </div>
+                    <div style="margin-bottom: 48px">
+                        <p>{{project.description}}</p>
+                    </div>
+                    <div class="w3-padding w3-display-bottomleft w3-small" style="font-style: italic">Last Modified {{
+                        project.pushed_at | date: "%Y-%m-%d" }}</div>
+                    <div class="w3-padding w3-display-topright">☆ {{ project.stargazers_count }}</div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

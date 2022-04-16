@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    {% include meta.html %}
+    <script type="text/javascript">window.baseurl = '{{ site.url }}';</script>
+    {% include css.html %}
+    {% include js.html %}
+    {% if jekyll.environment == "production" %}
+    {% include analytics.html %}
+    {% endif %}
+</head>
+
+<body class="home">
+    {% include header.html %}
+    {% include main.html %}
+</body>
+
+</html>

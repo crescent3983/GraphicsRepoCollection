@@ -1,0 +1,62 @@
+---
+# Anti-Aliasing
+- name: HBAOPlus
+  author: NVIDIAGameWorks
+  description: HBAO+ is a SSAO algorithm designed to achieve high efficiency on DX11 GPUs.
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - C++
+  - HBAO+
+  image: https://developer.nvidia.com/sites/default/files/akamai/HBAO.jpg
+
+- name: MiniEngineAO
+  author: keijiro
+  description: A SSAO image effect for Unity that was originally developed by Team Minigraph at Microsoft for their MiniEngine library.
+  topics: 
+  - Anti-Aliasing
+  tags: 
+  - Unity
+  - SSAO
+  image: https://camo.githubusercontent.com/03fb6ab562777e26fe4719a74a1afca1392cf80e4e4ceb5c8ccbac5fc87fa2b7/687474703a2f2f692e696d6775722e636f6d2f6b37314a3951796d2e706e67
+
+- name: KinoObscurance
+  author: keijiro
+  description: A screen-space ambient obscurance (SSAO) image effect for Unity.
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - Unity
+  - SSAO
+  image: https://camo.githubusercontent.com/dfbd59714b735bc78825fa5a4d101e02bb717f0e9ed087664fe58bd40d12ed38/687474703a2f2f692e696d6775722e636f6d2f4f6454696949782e706e67
+
+# Texturing
+- name: VirtualTexture
+  author: jintiao
+  description: Virtual texture for unity.
+  topics:
+  - Texturing
+  tags: 
+  - Unity
+  - Virtual Texture
+  image: https://github.com/jintiao/VirtualTexture/raw/master/Image/Screenshot2.png
+
+- name: PVTUT
+  author: ACskyline
+  description: View-Independent Procedural Virtual Texture with Unity Terrain.
+  topics:
+  - Texturing
+  - Terrain
+  tags: 
+  - Unity
+  - Virtual Texture
+  image: https://github.com/ACskyline/PVTUT/raw/master/img/1and4and5and6.jpg
+
+- name: LibVT
+  author: core-code
+  description: A library implementing "virtual texturing". LibVT itself is written in C++ but exposes a C-based API.
+  topics:
+  - Texturing
+  tags: 
+  - C++
+  image: 

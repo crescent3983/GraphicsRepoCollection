@@ -1,13 +1,23 @@
 ---
 - name: Anti-Aliasing
   image: assets/topics/anti-aliasing.png
-  url: topics/anti-aliasing.html
 - name: Ambient Occlusion
   image: assets/topics/ambient-occlusion.png
-  url: topics/ambient-occlusion.html
 - name: Texturing
   image: assets/topics/texturing.png
-  url: topics/texturing.html
 - name: Terrain
   image: assets/topics/terrain.png
-  url: topics/terrain.html
+- name: Shadows
+  image: assets/topics/shadows.png
+- name: Image Effects
+  image: assets/topics/image-effect.png
+- name: Non-Photorealistic Rendering
+  image: assets/topics/npr.png
+- name: Ray Marching
+  image: assets/topics/ray-marching.png
+- name: Fluid
+  image: assets/topics/fluid.png
+- name: Animation
+  image: assets/topics/animation.png
+- name: Physically based rendering
+  image: assets/topics/pbr.png

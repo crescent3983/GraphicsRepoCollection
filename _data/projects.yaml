@@ -91,3 +91,163 @@
   tags: 
   - C++
   image: 
+
+# Shadows
+
+- name: UnityPCSS
+  author: TheMasonX
+  description: Nvidia's PCSS soft shadow algorithm implemented in Unity3D.
+  topics:
+  - Shadows
+  tags: 
+  - Unity
+  - PCSS
+  image: https://camo.githubusercontent.com/3094cc89f327a984269c503935ec9189d3858b8adecee957e530839541cf3945/687474703a2f2f7777772e706963746f72656d2e636f6d2f636f6c6c656374696f6e2f3930305f3435353533352e6a7067
+
+# Physically based rendering
+
+- name: yocto-gl
+  author: xelatihy
+  description: Tiny C++ Libraries for Data-Driven Physically-based Graphics.
+  topics:
+  - Physically based rendering
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/xelatihy/yocto-gl/main/images/features1.jpg
+
+- name: PBR
+  author: Nadrin
+  description: An implementation of physically based shading model & image based lighting in various graphics APIs.
+  topics:
+  - Physically based rendering
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/Nadrin/PBR/master/data/screenshot.jpg
+
+# Image Effects
+
+- name: Kino
+  author: keijiro
+  description: A collection of custom post-processing effects for Unity's High Definition Render Pipeline (HDRP).
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/6093811ae545a21820581befecaf41019969c74cd686f06292f54df066ddb3ef/68747470733a2f2f692e696d6775722e636f6d2f627543644d596d2e676966
+
+- name: KinoGlitch
+  author: keijiro
+  description: A collection of glitch video effects. At the moment, it provides two types of glitch effects.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/b5346f02f8d074887ed33851e597ada621a72fce6757d51944d0e4091bcdd604/687474703a2f2f33332e6d656469612e74756d626c722e636f6d2f66313735306436353533383137653332623961393731366264386432356630652f74756d626c725f6e71777871384b7738613171696f3436396f325f3430302e676966
+
+- name: KinoBloom
+  author: keijiro
+  description: An image effect for Unity that adds bloom/veiling glare effect to rendered frames.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/8453fdcd497cb060eca04baf96c5c3cd229a3c675b3f835e4008794f7e138f2e/687474703a2f2f692e696d6775722e636f6d2f4753494b667a732e706e67
+
+- name: KinoMotion
+  author: keijiro
+  description: A post-processing effect that simulates motion blur caused by object/camera movement.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/ef264a57159b86c764b4434688f8bc821545c585f7d8aec8da463e32817a7b21/68747470733a2f2f692e696d6775722e636f6d2f556b4a76576e632e676966
+
+- name: KinoContour
+  author: keijiro
+  description: A contour line (edge detection) filter for Unity.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/a781485685a31915c746d0ed42d59c13701cfe70c291421108f45cac9902d702/687474703a2f2f692e696d6775722e636f6d2f6c4a49756464416c2e706e67
+
+- name: KinoDatamosh
+  author: keijiro
+  description: A post-processing effect that simulates video compression artifacts, specifically one called datamoshing.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/36eeee91cb0bf43cb575b47c9426d62fdb4626d7262e643b9f42d8f3a80bc88b/68747470733a2f2f36362e6d656469612e74756d626c722e636f6d2f36626632616537643361663664333861363166316335376361383635353661612f74756d626c725f6f38617a6e36695362423171696f3436396f315f3430302e676966
+
+- name: KinoBokeh
+  author: keijiro
+  description: An image effect for Unity that simulates depth of field effect.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/4a1057f7768d6161484c004b03c818b5578e1e24e77fa4493bb6321169004b59/687474703a2f2f36352e6d656469612e74756d626c722e636f6d2f65633666353832306339633434663465303139383562616531643464643733662f74756d626c725f6f656f3674786a4932683171696f3436396f345f3430302e706e67
+
+- name: KinoAqua
+  author: keijiro
+  description: A custom post-processing effect for Unity HDRP that creates a simple watercolor effect.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/fc8186d6e69a89947612d1962e8728e51bfff23441a03867bdae3dc1fe418370/68747470733a2f2f692e696d6775722e636f6d2f4171494a4438726c2e6a7067
+
+- name: KinoBinary
+  author: keijiro
+  description: A binary image (thresholding) filter for Unity.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/e0a6bb2ffeb8f3eb81c0fb0623e011ef8b786fbedf3e004ba665b7f4e0b7de86/68747470733a2f2f692e696d6775722e636f6d2f426269665265352e676966
+
+- name: RippleEffect
+  author: keijiro
+  description: Water surface ripple effect for Unity.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/4db29e2cc483813890449e427fe4b3aa4bcc9108c99d67b7b80d093ddd68094e/687474703a2f2f6b65696a69726f2e6769746875622e696f2f526970706c654566666563742f73637265656e73686f742e706e67
+
+- name: SonarFx
+  author: keijiro
+  description: A full-screen effect for Unity. It renders animated wave-like patterns on the all surfaces in the scene.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/3ec7f086f48ad31db6e3400849d51a81cf13538aac599d2b0bf82230e9edafd3/687474703a2f2f6b65696a69726f2e6769746875622e696f2f536f6e617246782f73637265656e636173742e676966
+
+- name: X-PostProcessing-Library
+  author: QianMo
+  description: Unity Post Processing Stack Library.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/QianMo/X-PostProcessing-Gallery/master/Media/Title/RadialBlurV2.gif
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+    
+
+ 
+ 

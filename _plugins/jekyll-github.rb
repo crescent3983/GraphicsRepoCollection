@@ -25,4 +25,40 @@ module Jekyll
             site.data['project_list'] = project_list
         end
     end
+
+    class TopicGenerator < Jekyll::Generator
+        def generate(site)
+            site.data['topics'].each do |topic|
+                site.pages << TopicPage.new(site, topic)
+            end
+        end
+    end
+
+    class TopicPage < Jekyll::Page
+        def initialize(site, topic)
+            @site = site
+            @dir  = "topics"
+
+            @basename = topic['name']
+            @ext      = '.html'
+            @name     = basename + ext
+     
+            @data = {
+                "layout" => "projects",
+                "title" => topic['name'],
+            }
+        end
+
+        def template
+            "/:path/:basename:output_ext"
+        end
+
+        def url_placeholders
+            {
+              :path       => @dir,
+              :basename   => basename,
+              :output_ext => output_ext,
+            }
+        end
+    end
 end

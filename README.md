@@ -7,7 +7,7 @@ permalink: /README.md
 
 A collection of awesome computer graphics projects I found on github.
 
-You can view directly in generated [Markdown](https://github.com/crescent3983/GraphicsRepoCollection/blob/gh-pages/README.md) or on the [Website](https://crescent3983.github.io/GraphicsRepoCollection/) which is more recommended.
+You can view directly in generated [Markdown](https://github.com/crescent3983/GraphicsRepoCollection/blob/gh-pages/README.md) or through the [Website](https://crescent3983.github.io/GraphicsRepoCollection/) which is more recommended.
 
 If you found any interesting projects, feel free to create an issue to let me know.
 

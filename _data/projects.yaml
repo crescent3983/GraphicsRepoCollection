@@ -262,6 +262,16 @@
   tags: 
   - C++
   image: https://developer.nvidia.com/sites/default/files/akamai/gamedev/images/flex.jpg
+
+- name: fluviofx
+  author: fluviofx
+  description: Fluid dynamics for Unity's VFX graph.
+  topics:
+  - Visual Effects
+  - Fluid
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/miketucker/HDRP-Fluvio/master/Screenshots/sketch2_600.gif
  
 # Volume rendering
 
@@ -485,6 +495,16 @@
   tags: 
   - Unity
   image: https://raw.githubusercontent.com/danielshervheim/unity-stylized-water/main/Documentation/Figures/img1.png
+
+- name: ToonWaterShader
+  author: IronWarrior
+  description: Renders and animates toon-style waves from a noise texture and generates shoreline foam based off the depth buffer.
+  topics:
+  - Fluid
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/50884969ceadf13f0f01f2b98a27fdbab4d9c18ca674465b3f27466f6b97d501/68747470733a2f2f692e696d6775722e636f6d2f736b50417a627a2e706e67
 
 # Animation
 

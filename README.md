@@ -5,11 +5,11 @@ permalink: /README.md
 {::nomarkdown}
 # Graphics Repository Collection
 
-This is a collection of repostiories related to computer graphics from github.
+A collection of awesome computer graphics projects I found on github.
 
-You can check the generated markdown from [gh-pages](https://github.com/crescent3983/GraphicsRepoCollection/blob/gh-pages/README.md) branch but I suggest you view from [website](https://crescent3983.github.io/GraphicsRepoCollection/) directly which has a better layout.
+You can view directly in generated [Markdown](https://github.com/crescent3983/GraphicsRepoCollection/blob/gh-pages/README.md) or on the [Website](https://crescent3983.github.io/GraphicsRepoCollection/) which is more recommended.
 
-If you have any interesting projects, feel free to create an issue to let me know.
+If you found any interesting projects, feel free to create an issue to let me know.
 
 {% for topic in site.data.topics %}
 ## {{topic.name}}

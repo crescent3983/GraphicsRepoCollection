@@ -11,7 +11,7 @@
   image: assets/topics/shadows.png
 - name: Image Effects
   image: assets/topics/image-effect.png
-- name: Non-Photorealistic Rendering
+- name: Non-photorealistic rendering
   image: assets/topics/npr.png
 - name: Ray Marching
   image: assets/topics/ray-marching.png
@@ -21,3 +21,13 @@
   image: assets/topics/animation.png
 - name: Physically based rendering
   image: assets/topics/pbr.png
+- name: Visual Effects
+  image: assets/topics/vfx.png
+- name: Volume rendering
+  image: assets/topics/volume-rendering.png
+- name: Modeling
+  image: assets/topics/modeling.png 
+- name: Vegetation
+  image: assets/topics/vegetation.png
+- name: Fur and Hair
+  image: assets/topics/fur_hair.png 

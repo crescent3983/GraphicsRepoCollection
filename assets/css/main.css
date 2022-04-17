@@ -38,6 +38,10 @@
     max-height:100%;
 }
 
+.topic-item div {
+    height: 82px;
+}
+
 .tag-group {
     margin: auto; width: 100%;
 }
@@ -57,7 +61,7 @@
 .project-item.not-show { display: none; }
 
 .project-image-item {
-    height: 200px;
+    height: 210px;
     width: 30%;
 }
 
@@ -69,8 +73,10 @@
     max-height:100%;
 }
 
-.helper {
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
+.github {
+    color: #24292f;
+    background-color: #ebf0f4;
+	padding: 4px 5px;
+	border-radius: .25em;
+	text-decoration: none;
 }

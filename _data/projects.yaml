@@ -207,6 +207,15 @@
   - Unity
   image: https://camo.githubusercontent.com/e0a6bb2ffeb8f3eb81c0fb0623e011ef8b786fbedf3e004ba665b7f4e0b7de86/68747470733a2f2f692e696d6775722e636f6d2f426269665265352e676966
 
+- name: KinoFog
+  author: keijiro
+  description: A replacement for the global fog effect in the Unity standard assets. The main difference is the addition of the fade-to-skybox mode. In this mode, the color of each pixel fades to a skybox instead of a constant fog color.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/b5ffc7171081d3e392b9a59a2a53fa1e28b2c9bd0fb1c3b63c037a30f6a1237c/68747470733a2f2f34302e6d656469612e74756d626c722e636f6d2f35653465333932366333653966613434393935623066343230396238393837632f74756d626c725f6e706f696f69444833693171696f3436396f315f313238302e706e67
+
 - name: RippleEffect
   author: keijiro
   description: Water surface ripple effect for Unity.
@@ -234,7 +243,313 @@
   - Unity
   image: https://raw.githubusercontent.com/QianMo/X-PostProcessing-Gallery/master/Media/Title/RadialBlurV2.gif
 
+# Visual Effects
 
+- name: Skinner
+  author: keijiro
+  description: A collection of special effects that use vertices of an animating skinned mesh as emitting points.
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/192ca7973d6e22b65bd3727d632356592fd0085dda3785ee87d89f6d7c31fd2a/687474703a2f2f692e696d6775722e636f6d2f6b383338626a632e676966
+
+- name: FleX
+  author: NVIDIAGameWorks
+  description: A particle-based simulation library designed for real-time applications. 
+  topics:
+  - Visual Effects
+  tags: 
+  - C++
+  image: https://developer.nvidia.com/sites/default/files/akamai/gamedev/images/flex.jpg
+ 
+# Volume rendering
+
+- name: Flow
+  author: NVIDIAGameWorks
+  description: A sparse grid-based fluid simulation library for real-time applications.
+  topics:
+  - Volume rendering
+  - Fluid
+  tags: 
+  - C
+  image: https://developer.nvidia.com/sites/default/files/akamai/gameworks/images/Flow/flow_small.png
+
+- name: CloudSkybox
+  author: keijiro
+  description: An extention for Unity's default procedural skybox shader that draws clouds with a volumetric rendering technique.
+  topics:
+  - Volume rendering
+  - Sky
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/cf13a3c7adf130411a8a3f3f7398b9981817bd0d334d2443bb9368f33c05b12c/687474703a2f2f36372e6d656469612e74756d626c722e636f6d2f35633837613333393831366263613433326531666234336531633163376562382f74756d626c725f6f3734327661717634753171696f3436396f315f3430302e676966
+
+- name: Brunetons-Improved-Atmospheric-Scattering
+  author: Scrawk
+  description: A port to Unity of a updated and improved version of Brunetons atmospheric scatter published in 2017.
+  topics:
+  - Volume rendering
+  - Sky
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering/master/Media/BrunetonsImprovedScatter1.jpg
+
+- name: precomputed_atmospheric_scattering
+  author: ebruneton
+  description: A implementation of our Precomputed Atmospheric Scattering paper.
+  topics:
+  - Volume rendering
+  - Sky
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering/master/Media/BrunetonsImprovedScatter1.jpg
+
+- name: UnityVolumeRendering
+  author: mlavik1
+  description: Volume rendering, implemented in Unity3D.
+  topics:
+  - Volume rendering
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/mlavik1/UnityVolumeRendering/master/Screenshots/front.jpg
+
+# Non-photorealistic rendering
+
+- name: UnityURPToonLitShaderExample
+  author: ColinLeung-NiloCat
+  description: Unity URP Simplified Toon Lit Shader Example
+  topics:
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/5a728ac4036fb837b2ede63d6536cf1e2a12c4b43a922c4bb09790eba4147df0/68747470733a2f2f692e696d6775722e636f6d2f6653704d397a4d2e6a7067
+
+- name: UniToon
+  author: yoship1639
+  description: Physically-based Toon Shader for game applications. 
+  topics:
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://user-images.githubusercontent.com/8346139/161423546-9cccd29b-3015-4109-960f-900093c6c9ab.png
+
+# Modeling
+
+- name: Blast
+  author: NVIDIAGameWorks
+  description: A modular destruction SDK designed for performance and flexibility, replacing APEX destruction.
+  topics:
+  - Modeling
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/NVIDIAGameWorks/Blast/master/images/blast.png
+
+- name: unity-fracture
+  author: ElasticSea
+  description: Fracture any mesh at runtime.
+  topics:
+  - Modeling
+  tags: 
+  - Unity
+  image: 
+
+- name: UnityMeshSimplifier
+  author: Whinarn
+  description: Mesh simplification for Unity. The project is deeply based on the Fast Quadric Mesh Simplification algorithm.
+  topics:
+  - Modeling
+  tags: 
+  - Unity
+  image: 
+
+- name: Fast-Quadric-Mesh-Simplification
+  author: sp4cerat
+  description: Mesh triangle reduction using quadrics.
+  topics:
+  - Modeling
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/sp4cerat/Fast-Quadric-Mesh-Simplification/master/screenshot.png
+
+- name: SeamAwareDecimater
+  author: songrun
+  description: Seam-aware decimater simplifies a mesh while preserving its UV's boundary. It allows the same texture to be used across all decimation levels—notably along seams.
+  topics:
+  - Modeling
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/songrun/SeamAwareDecimater/master/results/blub_representative.png
+
+- name: UnityMeshDecimation
+  author: crescent3983
+  description: Mesh Decimation for Unity.
+  topics:
+  - Modeling
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/crescent3983/UnityMeshDecimation/master/readme_assets/overview.png
+
+# Ray Marching
+
+- name: uRaymarching
+  author: hecomi
+  description: Raymarching Shader Generator in Unity.
+  topics:
+  - Ray Marching
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/wiki/hecomi/uRaymarching/hex_floor.gif
+
+# Subsurface scattering
+
+- name: FaceWorks
+  author: NVIDIAGameWorks
+  description: A middleware library and sample application for high-quality skin and eye rendering.
+  topics:
+  - Subsurface scattering
+  - Skin
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/NVIDIAGameWorks/FaceWorks/master/doc/images/sss_comparison.png
+
+# Terrain
+
+- name: KvantLattice
+  author: keijiro
+  description: A GPU accelerated fractal terrain renderer for Unity.
+  topics:
+  - Terrain
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/cc20f320795def699db70c8d2815c4188dce2a12844bcd649e7f1d068b6cdaa3/687474703a2f2f33382e6d656469612e74756d626c722e636f6d2f37363337353534383532313663643961373030383538666335316138623866372f74756d626c725f6e70787273626f5853643171696f3436396f315f3430302e676966
+
+- name: CDLOD
+  author: fstrugar
+  description: A technique for GPU-based rendering of heightmap terrains, which is a refinement of several existing methods with some new ideas.
+  topics:
+  - Terrain
+  tags: 
+  - C++
+  image: 
+
+# Vegetation
+
+- name: KvantGrass
+  author: keijiro
+  description: An animating grass shader for Unity.
+  topics:
+  - Vegetation
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/ad1a2f852918e2547deabd0049790a96849d994bd6d7cfbb51f4827ebfe983da/68747470733a2f2f33332e6d656469612e74756d626c722e636f6d2f39666166633937343862316631373039623961326338313035383661663064372f74756d626c725f6e746a656a77317a48653171696f3436396f315f3430302e676966
+
+# Fur and Hair
+
+- name: KvantWig
+  author: keijiro
+  description: Non-realistic hair simulation in Unity.
+  topics:
+  - Fur and Hair
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/89d9adde8611fd0bd87f03aea42419dc361eba814ab50abbe68a80c04cfd304e/687474703a2f2f692e696d6775722e636f6d2f4d747a6e6231792e676966
+
+- name: UnityFurShader
+  author: Sorumi
+  description: Fur shader for Unity.
+  topics:
+  - Fur and Hair
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/Sorumi/UnityFurShader/master/Docs/Fur_0_1_Basic.png
+
+# Fluid
+
+- name: crest
+  author: wave-harmonic
+  description: An advanced ocean system implemented in Unity3D.
+  topics:
+  - Fluid
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/wave-harmonic/crest/master/img/teaser5.png
+
+- name: unity-stylized-water
+  author: danielshervheim
+  description: A stylized water shader for Unity.
+  topics:
+  - Fluid
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/danielshervheim/unity-stylized-water/main/Documentation/Figures/img1.png
+
+# Animation
+
+- name: Automatic-DynamicBone
+  author: OneYoungMean
+  description: Unity bone cloth spring system,base by jobs.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/322bc5e9e76405cc67df285584a341443cfd5d5f26fd65995d06c6a00612c6d9/68747470733a2f2f7a332e617831782e636f6d2f323032312f30392f32392f3434454a4d562e676966
+
+- name: GPUSkinning
+  author: chengkehan
+  description: GPUSkinning to improve performance.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/chengkehan/GPUSkinning/master/screenshot.gif
+
+- name: DQ-skinning-for-Unity
+  author: ConstantineRudenko
+  description: Dual quaternion skinning for Unity.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/ConstantineRudenko/DQ-skinning-for-Unity/master/Screenshots/before-after.gif
+
+- name: SPCRJointDynamics
+  author: SPARK-inc
+  description: A bone physics engine for cloth.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://github.com/SPARK-inc/SPCRJointDynamics/raw/master/image/physics.gif
+
+- name: EZSoftBone
+  author: EZhex1991
+  description: A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/EZhex1991/EZSoftBone/master/.SamplePicture/EZSoftBone_2.gif
+
+# Cloth
+
+- name: NvCloth
+  author: NVIDIAGameWorks
+  description: A library that provides low level access to a cloth solver designed for realtime interactive applications.
+  topics:
+  - Cloth
+  tags: 
+  - C++
+  image: 
+
+
+
+
+
+
+ 
 
 
 

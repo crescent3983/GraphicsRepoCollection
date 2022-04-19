@@ -104,6 +104,26 @@
   - PCSS
   image: https://camo.githubusercontent.com/3094cc89f327a984269c503935ec9189d3858b8adecee957e530839541cf3945/687474703a2f2f7777772e706963746f72656d2e636f6d2f636f6c6c656374696f6e2f3930305f3435353533352e6a7067
 
+- name: Shadows
+  author: TheRealMJP
+  description: A sample app that demonstrates several techniques for rendering real-time shadow maps.
+  topics:
+  - Shadows
+  tags: 
+  - C++
+  - Direct3D
+  image: https://therealmjp.github.io/images/converted/shadow-sample-update/msm-comparison-02-grid.png
+
+- name: opengl-shadowmapping
+  author: cforfang
+  description: Examples of normal shadow mapping (with PCF), VSM, and VSM together with a cubemap.
+  topics:
+  - Shadows
+  tags: 
+  - C++
+  - OpenGL
+  image: https://camo.githubusercontent.com/007e0120af8c0b68f1e794f03f79d4c7e3d392af5e87170b44e70fa47148ffba/68747470733a2f2f7261772e6769746875622e636f6d2f63666f7266616e672f6f70656e676c2d736861646f776d617070696e672f6d61737465722f73637265656e73686f74732f76736d5f637562656d61702e706e67
+
 # Physically based rendering
 
 - name: yocto-gl
@@ -123,6 +143,15 @@
   tags: 
   - C++
   image: https://raw.githubusercontent.com/Nadrin/PBR/master/data/screenshot.jpg
+
+- name: filament
+  author: google
+  description: A real-time physically based rendering engine for Android, iOS, Linux, macOS, Windows, and WebGL.
+  topics:
+  - Physically based rendering
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/google/filament/main/docs/images/samples/example_materials1.jpg
 
 # Image Effects
 
@@ -243,6 +272,42 @@
   - Unity
   image: https://raw.githubusercontent.com/QianMo/X-PostProcessing-Gallery/master/Media/Title/RadialBlurV2.gif
 
+- name: Outline-Effect
+  author: cakeslice
+  description: Outline Image Effect for Unity.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/4c1e168f5ad74df9280780f16078eac37797a805630280e82a3d7aca2231e7e9/687474703a2f2f692e696d6775722e636f6d2f4375554450796b2e6a7067
+
+- name: UnityFx.Outline
+  author: Arvtesh
+  description: Screen-space outlines for Unity3d.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/Arvtesh/UnityFx.Outline/develop/Docs/OutlineSamples.png
+
+- name: Super-Blur
+  author: PavelDoGreat
+  description: Blur effect that you can apply on Camera and UI.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/68d114478dae3d63ce8335a07dd5529dd6d95d2688b88fd509c83ad273c49c39/687474703a2f2f692e696d6775722e636f6d2f34574f3535314f2e706e67
+
+- name: unity-frosted-glass
+  author: andydbc
+  description: A frosted glass effect in Unity.
+  topics:
+  - Image Effects
+  tags: 
+  - Unity
+  image: https://github.com/andydbc/unity-frosted-glass/raw/master/Screenshots/screen0.gif
+
 # Visual Effects
 
 - name: Skinner
@@ -253,6 +318,24 @@
   tags: 
   - Unity
   image: https://camo.githubusercontent.com/192ca7973d6e22b65bd3727d632356592fd0085dda3785ee87d89f6d7c31fd2a/687474703a2f2f692e696d6775722e636f6d2f6b383338626a632e676966
+
+- name: Smrvfx
+  author: keijiro
+  description: Use the skinned mesh sampling feature with VFX Graph to emit particles from animating characters..
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/e339cfdc93d809de7fa6eaface1d23cf73e4685b2e61b13f6e48b50d247a6f72/68747470733a2f2f692e696d6775722e636f6d2f4857776e6c6a452e676966
+
+- name: Firefly
+  author: keijiro
+  description: Unity ECS example for special effects. 
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/c77f5e0d9a26175e7596c27048e9eb1b852a3cfc5f088c4833a6c192bb6e1a25/68747470733a2f2f692e696d6775722e636f6d2f3030346f5943762e676966
 
 - name: FleX
   author: NVIDIAGameWorks
@@ -272,6 +355,15 @@
   tags: 
   - Unity
   image: https://raw.githubusercontent.com/miketucker/HDRP-Fluvio/master/Screenshots/sketch2_600.gif
+
+- name: VerticalDissolve
+  author: AdultLink
+  description: Procedural vertical dissolve shader. 
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://github.com/AdultLink/VerticalDissolve/raw/master/Media/Monkeys.gif
  
 # Volume rendering
 
@@ -344,6 +436,24 @@
   - Unity
   image: https://user-images.githubusercontent.com/8346139/161423546-9cccd29b-3015-4109-960f-900093c6c9ab.png
 
+- name: LiliumToonGraph
+  author: you-ri
+  description: UniversalRP Toon Shader with ShaderGraph. 
+  topics:
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/0607af98a6163d16fda73aedbc1cac2333dabfd0567b123930e40ef1a81d6286/68747470733a2f2f692e696d6775722e636f6d2f757663364377582e676966
+
+- name: UnityChanToonShaderVer2_Project
+  author: unity3d-jp
+  description: A toon shader for images and video that is designed to meet the needs of creators working on cel-shaded 3DCG animations.. 
+  topics:
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/unity3d-jp/UnityChanToonShaderVer2_Project/release/legacy/2.0/Manual/Images_jpg/UTS2_TopImage00.jpg
+
 # Modeling
 
 - name: Blast
@@ -400,6 +510,15 @@
   - Unity
   image: https://raw.githubusercontent.com/crescent3983/UnityMeshDecimation/master/readme_assets/overview.png
 
+- name: Deform
+  author: keenanwoodall
+  description: A fully-featured deformer system for Unity.
+  topics:
+  - Modeling
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/keenanwoodall/Deform/master/.github/images/banner.png
+
 # Ray Marching
 
 - name: uRaymarching
@@ -443,6 +562,15 @@
   - C++
   image: 
 
+- name: MightyTerrainMesh
+  author: jinsek
+  description: A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
+  topics:
+  - Terrain
+  tags: 
+  - Unity
+  image: https://user-images.githubusercontent.com/4982625/147909008-482a3a21-ad5a-427d-aba0-a4f8affb4686.png
+
 # Vegetation
 
 - name: KvantGrass
@@ -453,6 +581,34 @@
   tags: 
   - Unity
   image: https://camo.githubusercontent.com/ad1a2f852918e2547deabd0049790a96849d994bd6d7cfbb51f4827ebfe983da/68747470733a2f2f33332e6d656469612e74756d626c722e636f6d2f39666166633937343862316631373039623961326338313035383661663064372f74756d626c725f6e746a656a77317a48653171696f3436396f315f3430302e676966
+
+- name: Realistic-Real-Time-Grass-Rendering-With-Unity
+  author: chenjd
+  description: Realistic Real Time Grass Rendering With Unity.
+  topics:
+  - Vegetation
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/c9c1a6d9942f59d5759501f8cb938bf1c083c7a4c6fb1da5a361462ae4351e05/687474703a2f2f696d61676573323031372e636e626c6f67732e636f6d2f626c6f672f3638363139392f3230313730392f3638363139392d32303137303932343130323032343235392d313934383832343531352e6a7067
+
+- name: GrandGeoGrass-Public
+  author: TheRensei
+  description: Geometry grass shader for unity.
+  topics:
+  - Vegetation
+  tags: 
+  - Unity
+  image: https://github.com/TheRensei/GrandGeoGrass-Public/raw/main/Screenshots/GGG_Point%20Lights.gif
+
+- name: Grass.DirectX
+  author: mreinfurt
+  description: Realistic Grass Rendering using DirectX 11 and a geometry-shader based approach.
+  topics:
+  - Vegetation
+  tags: 
+  - Direct3D
+  - C#
+  image: https://raw.githubusercontent.com/mreinfurt/Grass-DX11/master/Paper/images/preview2.png
 
 # Fur and Hair
 
@@ -506,6 +662,24 @@
   - Unity
   image: https://camo.githubusercontent.com/50884969ceadf13f0f01f2b98a27fdbab4d9c18ca674465b3f27466f6b97d501/68747470733a2f2f692e696d6775722e636f6d2f736b50417a627a2e706e67
 
+- name: Ocean_Community_Next_Gen
+  author: eliasts
+  description: Next gen iteration of the unity community ocean shader.
+  topics:
+  - Fluid
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/6728c7561394e145def3a9ba18aae0c6935539b7052ce30038c0e18fe534df7e/687474703a2f2f692e696d6775722e636f6d2f697569386c79422e6a7067
+
+- name: Ceto
+  author: Scrawk
+  description: Ocean system for Unity.
+  topics:
+  - Fluid
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/Scrawk/Ceto/master/CetoDemo8.png
+
 # Animation
 
 - name: Automatic-DynamicBone
@@ -553,6 +727,24 @@
   - Unity
   image: https://raw.githubusercontent.com/EZhex1991/EZSoftBone/master/.SamplePicture/EZSoftBone_2.gif
 
+- name: Render-Crowd-Of-Animated-Characters
+  author: chenjd
+  description: Using GPU to implement large-amount animation characters rendering.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/01c3aa9c1ecd5cffebfa79feab2906387ec8a72268783632aa4b094b07ae58e5/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313337323130352d333130633537646638636663383362632e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970
+
+- name: PuppetTest
+  author: keijiro
+  description: An experiment in procedural dance animation.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/e25ad57abe2324e8a6290543c3034a7d646e86454206db4bf6ddeeb3132747d9/68747470733a2f2f692e696d6775722e636f6d2f463877724c6d392e676966
+
 # Cloth
 
 - name: NvCloth
@@ -564,6 +756,16 @@
   - C++
   image: 
 
+# Simulation
+
+- name: Boids
+  author: keijiro
+  description: Flocking behavior simulation.
+  topics:
+  - Simulation
+  tags: 
+  - Unity
+  image: https://vumbnail.com/87151096.jpg
 
 
 

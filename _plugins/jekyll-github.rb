@@ -7,7 +7,13 @@ module Jekyll
             project_list = {}
             site.data['projects'].each { |project|
                 begin
-                    info = JSON.load(URI.open('https://api.github.com/repos/' + project['author'] + '/' + project['name']))
+                    url = 'https://api.github.com/repos/' + project['author'] + '/' + project['name']
+                    info = {}
+                    if site.config.key?("github_token")
+                        info = JSON.load(URI.open(url, "Authorization" => "Bearer #{site.config['github_token']}"))
+                    else
+                        info = JSON.load(URI.open(url))
+                    end
                     project['stargazers_count'] = info['stargazers_count']
                     project['pushed_at'] = info['pushed_at']
                 rescue

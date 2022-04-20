@@ -1,0 +1,9 @@
+---
+- name: FidelityFX-FSR
+  author: GPUOpen-Effects
+  description: FidelityFX Super Resolution.
+  topics:
+  - Super Resolution
+  tags: 
+  - C
+  image: https://raw.githubusercontent.com/GPUOpen-Effects/FidelityFX-FSR/master/screenshot.png

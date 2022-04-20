@@ -1,0 +1,10 @@
+---
+- name: opengl-radiosity-tutorial
+  author: TamasKormendi
+  description: A progressive radiosity renderer written in C++ using OpenGL 4.5.
+  topics:
+  - Global Illumination
+  tags: 
+  - C++
+  - OpenGL
+  image: https://raw.githubusercontent.com/TamasKormendi/opengl-radiosity-tutorial/master/tutorial/images/complexLights_1.png

@@ -1,0 +1,27 @@
+---
+- name: KvantLattice
+  author: keijiro
+  description: A GPU accelerated fractal terrain renderer for Unity.
+  topics:
+  - Terrain
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/cc20f320795def699db70c8d2815c4188dce2a12844bcd649e7f1d068b6cdaa3/687474703a2f2f33382e6d656469612e74756d626c722e636f6d2f37363337353534383532313663643961373030383538666335316138623866372f74756d626c725f6e70787273626f5853643171696f3436396f315f3430302e676966
+
+- name: CDLOD
+  author: fstrugar
+  description: A technique for GPU-based rendering of heightmap terrains, which is a refinement of several existing methods with some new ideas.
+  topics:
+  - Terrain
+  tags: 
+  - C++
+  image: 
+
+- name: MightyTerrainMesh
+  author: jinsek
+  description: A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
+  topics:
+  - Terrain
+  tags: 
+  - Unity
+  image: https://user-images.githubusercontent.com/4982625/147909008-482a3a21-ad5a-427d-aba0-a4f8affb4686.png

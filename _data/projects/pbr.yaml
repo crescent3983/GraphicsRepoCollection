@@ -1,0 +1,27 @@
+---
+- name: yocto-gl
+  author: xelatihy
+  description: Tiny C++ Libraries for Data-Driven Physically-based Graphics.
+  topics:
+  - Physically based rendering
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/xelatihy/yocto-gl/main/images/features1.jpg
+
+- name: PBR
+  author: Nadrin
+  description: An implementation of physically based shading model & image based lighting in various graphics APIs.
+  topics:
+  - Physically based rendering
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/Nadrin/PBR/master/data/screenshot.jpg
+
+- name: filament
+  author: google
+  description: A real-time physically based rendering engine for Android, iOS, Linux, macOS, Windows, and WebGL.
+  topics:
+  - Physically based rendering
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/google/filament/main/docs/images/samples/example_materials1.jpg

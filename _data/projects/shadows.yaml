@@ -1,0 +1,40 @@
+---
+- name: UnityPCSS
+  author: TheMasonX
+  description: Nvidia's PCSS soft shadow algorithm implemented in Unity3D.
+  topics:
+  - Shadows
+  tags: 
+  - Unity
+  - PCSS
+  image: https://camo.githubusercontent.com/3094cc89f327a984269c503935ec9189d3858b8adecee957e530839541cf3945/687474703a2f2f7777772e706963746f72656d2e636f6d2f636f6c6c656374696f6e2f3930305f3435353533352e6a7067
+
+- name: Shadows
+  author: TheRealMJP
+  description: A sample app that demonstrates several techniques for rendering real-time shadow maps.
+  topics:
+  - Shadows
+  tags: 
+  - C++
+  - Direct3D
+  image: https://therealmjp.github.io/images/converted/shadow-sample-update/msm-comparison-02-grid.png
+
+- name: opengl-shadowmapping
+  author: cforfang
+  description: Examples of normal shadow mapping (with PCF), VSM, and VSM together with a cubemap.
+  topics:
+  - Shadows
+  tags: 
+  - C++
+  - OpenGL
+  image: https://camo.githubusercontent.com/007e0120af8c0b68f1e794f03f79d4c7e3d392af5e87170b44e70fa47148ffba/68747470733a2f2f7261772e6769746875622e636f6d2f63666f7266616e672f6f70656e676c2d736861646f776d617070696e672f6d61737465722f73637265656e73686f74732f76736d5f637562656d61702e706e67
+
+- name: ShadowFX
+  author: GPUOpen-Effects
+  description: DirectX 11 and 12 library that provides a scalable and GCN-optimized solution for deferred shadow filtering.
+  topics:
+  - Shadows
+  tags: 
+  - C++
+  - Direct3D
+  image: https://gpuopen.com/wp-content/uploads/2020/02/shadowfx_screenshot.jpg

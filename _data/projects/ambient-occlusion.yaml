@@ -1,0 +1,40 @@
+---
+- name: HBAOPlus
+  author: NVIDIAGameWorks
+  description: HBAO+ is a SSAO algorithm designed to achieve high efficiency on DX11 GPUs.
+  topics:
+  - Ambient Occlusion
+  tags: 
+  - C++
+  - HBAO+
+  image: https://developer.nvidia.com/sites/default/files/akamai/HBAO.jpg
+
+- name: MiniEngineAO
+  author: keijiro
+  description: A SSAO image effect for Unity that was originally developed by Team Minigraph at Microsoft for their MiniEngine library.
+  topics: 
+  - Ambient Occlusion
+  tags: 
+  - Unity
+  - SSAO
+  image: https://camo.githubusercontent.com/03fb6ab562777e26fe4719a74a1afca1392cf80e4e4ceb5c8ccbac5fc87fa2b7/687474703a2f2f692e696d6775722e636f6d2f6b37314a3951796d2e706e67
+
+- name: KinoObscurance
+  author: keijiro
+  description: A screen-space ambient obscurance (SSAO) image effect for Unity.
+  topics:
+  - Ambient Occlusion
+  tags: 
+  - Unity
+  - SSAO
+  image: https://camo.githubusercontent.com/dfbd59714b735bc78825fa5a4d101e02bb717f0e9ed087664fe58bd40d12ed38/687474703a2f2f692e696d6775722e636f6d2f4f6454696949782e706e67
+
+- name: FidelityFX-CACAO
+  author: GPUOpen-Effects
+  description: Combined Adaptive Compute Ambient Occlusion.
+  topics:
+  - Ambient Occlusion
+  tags: 
+  - C++
+  - CACAO
+  image: https://raw.githubusercontent.com/GPUOpen-Effects/FidelityFX-CACAO/master/sample/screenshot.png

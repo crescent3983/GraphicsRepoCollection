@@ -1,0 +1,45 @@
+---
+- name: UnityURPToonLitShaderExample
+  author: ColinLeung-NiloCat
+  description: Unity URP Simplified Toon Lit Shader Example
+  topics:
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/5a728ac4036fb837b2ede63d6536cf1e2a12c4b43a922c4bb09790eba4147df0/68747470733a2f2f692e696d6775722e636f6d2f6653704d397a4d2e6a7067
+
+- name: UniToon
+  author: yoship1639
+  description: Physically-based Toon Shader for game applications. 
+  topics:
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://user-images.githubusercontent.com/8346139/161423546-9cccd29b-3015-4109-960f-900093c6c9ab.png
+
+- name: LiliumToonGraph
+  author: you-ri
+  description: UniversalRP Toon Shader with ShaderGraph. 
+  topics:
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/0607af98a6163d16fda73aedbc1cac2333dabfd0567b123930e40ef1a81d6286/68747470733a2f2f692e696d6775722e636f6d2f757663364377582e676966
+
+- name: UnityChanToonShaderVer2_Project
+  author: unity3d-jp
+  description: A toon shader for images and video that is designed to meet the needs of creators working on cel-shaded 3DCG animations.. 
+  topics:
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/unity3d-jp/UnityChanToonShaderVer2_Project/release/legacy/2.0/Manual/Images_jpg/UTS2_TopImage00.jpg
+
+- name: JasonMaToonRenderPipeline
+  author: JasonMa0012
+  description: Unity HDRP ToonShading Render Pipeline. 
+  topics:
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/JasonMa0012/JasonMaToonRenderPipeline/0.1/image/README/1647811386474.png

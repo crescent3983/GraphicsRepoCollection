@@ -1,0 +1,56 @@
+---
+- name: crest
+  author: wave-harmonic
+  description: An advanced ocean system implemented in Unity3D.
+  topics:
+  - Fluid
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/wave-harmonic/crest/master/img/teaser5.png
+
+- name: unity-stylized-water
+  author: danielshervheim
+  description: A stylized water shader for Unity.
+  topics:
+  - Fluid
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/danielshervheim/unity-stylized-water/main/Documentation/Figures/img1.png
+
+- name: ToonWaterShader
+  author: IronWarrior
+  description: Renders and animates toon-style waves from a noise texture and generates shoreline foam based off the depth buffer.
+  topics:
+  - Fluid
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/50884969ceadf13f0f01f2b98a27fdbab4d9c18ca674465b3f27466f6b97d501/68747470733a2f2f692e696d6775722e636f6d2f736b50417a627a2e706e67
+
+- name: Ocean_Community_Next_Gen
+  author: eliasts
+  description: Next gen iteration of the unity community ocean shader.
+  topics:
+  - Fluid
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/6728c7561394e145def3a9ba18aae0c6935539b7052ce30038c0e18fe534df7e/687474703a2f2f692e696d6775722e636f6d2f697569386c79422e6a7067
+
+- name: Ceto
+  author: Scrawk
+  description: Ocean system for Unity.
+  topics:
+  - Fluid
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/Scrawk/Ceto/master/CetoDemo8.png
+
+- name: Compute-Shaders-Fluid-Dynamic-
+  author: IRCSS
+  description: A fluid simulation pipeline implemented in Compute shaders.
+  topics:
+  - Fluid
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/IRCSS/Compute-Shaders-Fluid-Dynamic-/main/documentation/FluidSimulationGif.gif

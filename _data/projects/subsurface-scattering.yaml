@@ -1,0 +1,10 @@
+---
+- name: FaceWorks
+  author: NVIDIAGameWorks
+  description: A middleware library and sample application for high-quality skin and eye rendering.
+  topics:
+  - Subsurface scattering
+  - Skin
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/NVIDIAGameWorks/FaceWorks/master/doc/images/sss_comparison.png

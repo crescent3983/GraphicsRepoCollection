@@ -1,0 +1,30 @@
+---
+- name: smaa
+  author: iryoku
+  description: SMAA is a very efficient GPU-based MLAA implementation, capable of handling subpixel features seamlessly, and featuring an improved and advanced pattern detection & handling mechanism.
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - C++
+  - SMAA
+  image: http://www.iryoku.com/smaa/images/teaser-thumb.jpg
+
+- name: FXAA
+  author: AmplifyCreations
+  description: FXAA is a popular post-process anti-aliasing technique created by Timothy Lottes.
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - Unity
+  - FXAA
+  image: https://assetstorev1-prd-cdn.unity3d.com/key-image/509805f0-568d-4e0a-9aa1-6ef9f40bc7e8.webp
+
+- name: glsl-fxaa
+  author: mattdesl
+  description: A WebGL implementation of Fast Approximate Anti-Aliasing (FXAA v2).
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - WebGL
+  - FXAA
+  image: https://raw.githubusercontent.com/mattdesl/glsl-fxaa/master/demo/screen.png

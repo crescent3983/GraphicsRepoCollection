@@ -1,0 +1,82 @@
+---
+- name: Skinner
+  author: keijiro
+  description: A collection of special effects that use vertices of an animating skinned mesh as emitting points.
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/192ca7973d6e22b65bd3727d632356592fd0085dda3785ee87d89f6d7c31fd2a/687474703a2f2f692e696d6775722e636f6d2f6b383338626a632e676966
+
+- name: Smrvfx
+  author: keijiro
+  description: Use the skinned mesh sampling feature with VFX Graph to emit particles from animating characters..
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/e339cfdc93d809de7fa6eaface1d23cf73e4685b2e61b13f6e48b50d247a6f72/68747470733a2f2f692e696d6775722e636f6d2f4857776e6c6a452e676966
+
+- name: Firefly
+  author: keijiro
+  description: Unity ECS example for special effects. 
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/c77f5e0d9a26175e7596c27048e9eb1b852a3cfc5f088c4833a6c192bb6e1a25/68747470733a2f2f692e696d6775722e636f6d2f3030346f5943762e676966
+
+- name: FleX
+  author: NVIDIAGameWorks
+  description: A particle-based simulation library designed for real-time applications. 
+  topics:
+  - Visual Effects
+  tags: 
+  - C++
+  image: https://developer.nvidia.com/sites/default/files/akamai/gamedev/images/flex.jpg
+
+- name: fluviofx
+  author: fluviofx
+  description: Fluid dynamics for Unity's VFX graph.
+  topics:
+  - Visual Effects
+  - Fluid
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/miketucker/HDRP-Fluvio/master/Screenshots/sketch2_600.gif
+
+- name: VerticalDissolve
+  author: AdultLink
+  description: Procedural vertical dissolve shader. 
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://github.com/AdultLink/VerticalDissolve/raw/master/Media/Monkeys.gif
+
+- name: NovaShader
+  author: CyberAgentGameEntertainment
+  description: A multi-functional shader for the Particle System that supports Universal Render Pipeline (URP). 
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://user-images.githubusercontent.com/47441314/144193003-53bcaa8a-b9a2-4b79-a1de-aa7b001abdaa.gif
+
+- name: Rimlight
+  author: AdultLink
+  description: Customizable rimlight shader for Unity that includes pulsation and noise scrolling. 
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://github.com/AdultLink/Rimlight/blob/master/Media/CharSelect.gif
+
+- name: HDRP-Custom-Passes
+  author: alelievr
+  description: A bunch of custom passes made for HDRP.
+  topics:
+  - Visual Effects
+  tags: 
+  - Unity
+  image: https://user-images.githubusercontent.com/6877923/65622342-c9e09200-dfc5-11e9-9625-02ce78c75b11.gif

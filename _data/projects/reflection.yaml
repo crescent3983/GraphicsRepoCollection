@@ -1,0 +1,18 @@
+---
+- name: ComputeStochasticReflections
+  author: simeonradivoev
+  description: Compute Stochastic Screen Space Reflections for unity post processing.
+  topics:
+  - Reflection
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/24a21ca1d35d61c20c57aaabc82e439e64a897a04cc9509073f15f0bebcc790f/68747470733a2f2f692e696d6775722e636f6d2f467866753730522e706e67
+
+- name: FidelityFX-SSSR
+  author: GPUOpen-Effects
+  description: Stochastic Screen Space Reflections (SSSR).
+  topics:
+  - Reflection
+  tags: 
+  - C
+  image: https://media.githubusercontent.com/media/GPUOpen-Effects/FidelityFX-SSSR/master/sample/screenshot.png

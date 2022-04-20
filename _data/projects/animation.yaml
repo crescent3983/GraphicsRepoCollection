@@ -1,0 +1,81 @@
+---
+- name: Automatic-DynamicBone
+  author: OneYoungMean
+  description: Unity bone cloth spring system,base by jobs.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/322bc5e9e76405cc67df285584a341443cfd5d5f26fd65995d06c6a00612c6d9/68747470733a2f2f7a332e617831782e636f6d2f323032312f30392f32392f3434454a4d562e676966
+
+- name: GPUSkinning
+  author: chengkehan
+  description: GPUSkinning to improve performance.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/chengkehan/GPUSkinning/master/screenshot.gif
+
+- name: DQ-skinning-for-Unity
+  author: ConstantineRudenko
+  description: Dual quaternion skinning for Unity.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/ConstantineRudenko/DQ-skinning-for-Unity/master/Screenshots/before-after.gif
+
+- name: SPCRJointDynamics
+  author: SPARK-inc
+  description: A bone physics engine for cloth.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://github.com/SPARK-inc/SPCRJointDynamics/raw/master/image/physics.gif
+
+- name: EZSoftBone
+  author: EZhex1991
+  description: A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/EZhex1991/EZSoftBone/master/.SamplePicture/EZSoftBone_2.gif
+
+- name: Render-Crowd-Of-Animated-Characters
+  author: chenjd
+  description: Using GPU to implement large-amount animation characters rendering.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/01c3aa9c1ecd5cffebfa79feab2906387ec8a72268783632aa4b094b07ae58e5/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313337323130352d333130633537646638636663383362632e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970
+
+- name: PuppetTest
+  author: keijiro
+  description: An experiment in procedural dance animation.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/e25ad57abe2324e8a6290543c3034a7d646e86454206db4bf6ddeeb3132747d9/68747470733a2f2f692e696d6775722e636f6d2f463877724c6d392e676966
+
+- name: OpenKCC
+  author: nicholas-maltbie
+  description: Open Source Kinematic Character Controller for Unity.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://media.githubusercontent.com/media/nicholas-maltbie/OpenKCC/main/Demo/sample-kcc.gif
+
+- name: VertexAnimation
+  author: maxartz15
+  description: A vertex animation baking tool, shaders, and animation system for Unity DOTS/ECS.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://github.com/maxartz15/VertexAnimation/raw/master/Documentation~/Images/ProjectCastle_01.gif

@@ -1,0 +1,49 @@
+---
+- name: Flow
+  author: NVIDIAGameWorks
+  description: A sparse grid-based fluid simulation library for real-time applications.
+  topics:
+  - Volume rendering
+  - Fluid
+  tags: 
+  - C
+  image: https://developer.nvidia.com/sites/default/files/akamai/gameworks/images/Flow/flow_small.png
+
+- name: CloudSkybox
+  author: keijiro
+  description: An extention for Unity's default procedural skybox shader that draws clouds with a volumetric rendering technique.
+  topics:
+  - Volume rendering
+  - Sky
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/cf13a3c7adf130411a8a3f3f7398b9981817bd0d334d2443bb9368f33c05b12c/687474703a2f2f36372e6d656469612e74756d626c722e636f6d2f35633837613333393831366263613433326531666234336531633163376562382f74756d626c725f6f3734327661717634753171696f3436396f315f3430302e676966
+
+- name: Brunetons-Improved-Atmospheric-Scattering
+  author: Scrawk
+  description: A port to Unity of a updated and improved version of Brunetons atmospheric scatter published in 2017.
+  topics:
+  - Volume rendering
+  - Sky
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering/master/Media/BrunetonsImprovedScatter1.jpg
+
+- name: precomputed_atmospheric_scattering
+  author: ebruneton
+  description: A implementation of our Precomputed Atmospheric Scattering paper.
+  topics:
+  - Volume rendering
+  - Sky
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering/master/Media/BrunetonsImprovedScatter1.jpg
+
+- name: UnityVolumeRendering
+  author: mlavik1
+  description: Volume rendering, implemented in Unity3D.
+  topics:
+  - Volume rendering
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/mlavik1/UnityVolumeRendering/master/Screenshots/front.jpg

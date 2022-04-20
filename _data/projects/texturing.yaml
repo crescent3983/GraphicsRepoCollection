@@ -1,0 +1,57 @@
+---
+- name: VirtualTexture
+  author: jintiao
+  description: Virtual texture for unity.
+  topics:
+  - Texturing
+  tags: 
+  - Unity
+  - Virtual Texture
+  image: https://github.com/jintiao/VirtualTexture/raw/master/Image/Screenshot2.png
+
+- name: PVTUT
+  author: ACskyline
+  description: View-Independent Procedural Virtual Texture with Unity Terrain.
+  topics:
+  - Texturing
+  - Terrain
+  tags: 
+  - Unity
+  - Virtual Texture
+  image: https://github.com/ACskyline/PVTUT/raw/master/img/1and4and5and6.jpg
+
+- name: LibVT
+  author: core-code
+  description: A library implementing "virtual texturing". LibVT itself is written in C++ but exposes a C-based API.
+  topics:
+  - Texturing
+  tags: 
+  - C++
+  image: 
+
+- name: UnityURPUnlitScreenSpaceDecalShader
+  author: ColinLeung-NiloCat
+  description: Unity unlit screen space decal shader for URP.
+  topics:
+  - Texturing
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/62703eb6811ee4b633b70530b4fa55ea624dc31128d016ab6995cd9e68fdc420/68747470733a2f2f692e696d6775722e636f6d2f6a5952547170522e706e67
+
+- name: unity-dithered-transparency-shader
+  author: gkjohnson
+  description: Unity material and shader for applying clipped, dithered transparency.
+  topics:
+  - Texturing
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/gkjohnson/unity-dithered-transparency-shader/master/docs/example.gif
+
+- name: DynamicDecals
+  author: EricFreeman
+  description: Decal solution for Unity's Built-In Render Pipeline.
+  topics:
+  - Texturing
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/EricFreeman/DynamicDecals/master/dynamic-decals.jpg

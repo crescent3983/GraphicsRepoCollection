@@ -1,0 +1,39 @@
+---
+- name: KvantWig
+  author: keijiro
+  description: Non-realistic hair simulation in Unity.
+  topics:
+  - Fur and Hair
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/89d9adde8611fd0bd87f03aea42419dc361eba814ab50abbe68a80c04cfd304e/687474703a2f2f692e696d6775722e636f6d2f4d747a6e6231792e676966
+
+- name: UnityFurShader
+  author: Sorumi
+  description: Fur shader for Unity.
+  topics:
+  - Fur and Hair
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/Sorumi/UnityFurShader/master/Docs/Fur_0_1_Basic.png
+
+- name: vkhr
+  author: CaffeineViking
+  description: Real-Time Hybrid Hair Rendering using Vulkan.
+  topics:
+  - Fur and Hair
+  tags: 
+  - C++
+  - Vulkan
+  image: https://media.githubusercontent.com/media/CaffeineViking/vkhr/master/docs/figures/ponytail-hair.jpg
+
+- name: TressFX
+  author: GPUOpen-Effects
+  description: DirectX 12 and Vulkan libraries that provide convenient access to realistically rendered and simulated hair and fur.
+  topics:
+  - Fur and Hair
+  tags: 
+  - C++
+  - Direct3D
+  image: https://camo.githubusercontent.com/1e0ca1eb3fa0eb4c07a627ac83cde637744e20b62f0529ee57a30f778a0421df/687474703a2f2f6770756f70656e2e636f6d2f4769744875625f4d656469612f54726573734658342e312d7769646573686f74312e6a7067

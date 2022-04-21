@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% if site.data.project_list[page.title] %}
-{% assign projects_sorted = site.data.project_list[page.title] | sort: "author" %}
+{% assign projects_sorted = site.data.project_list[page.title] | sort_natural: "author" %}
 {% else %}
 {% assign projects_sorted = '' | split: '' %}
 {% endif %}

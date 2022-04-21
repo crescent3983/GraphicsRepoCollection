@@ -8,3 +8,51 @@
   - C++
   - OpenGL
   image: https://raw.githubusercontent.com/TamasKormendi/opengl-radiosity-tutorial/master/tutorial/images/complexLights_1.png
+
+- name: Unity-SRP-VXGI
+  author: Looooong
+  description: Voxel-based Global Illumination using Unity Scriptable Render Pipeline.
+  topics:
+  - Global Illumination
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/Looooong/Unity-SRP-VXGI/master/Documentation~/Screenshots/1.jpg
+
+- name: VCTRenderer
+  author: jose-villegas
+  description: A real time global illumination solution that achieves glossy surfaces, diffuse reflection, specular reflection, ambient occlusion, indirect shadows, soft shadows, emissive materials and 2-bounce GI.
+  topics:
+  - Global Illumination
+  tags: 
+  - C++
+  - OpenGL
+  image: https://camo.githubusercontent.com/e7418b3601469b88e854bd4b06e715f4898d4d63b7b3658ba1de206a66fc3c18/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6a6f73652d76696c6c656761732f696d6167652f75706c6f61642f76313439373735383636342f44565347492f73706f6e7a615f636f6d702e706e67
+
+- name: RTXGI
+  author: NVIDIAGameWorks
+  description: RTX Global Illumination (RTXGI) is a collection of algorithms that leverage GPU ray tracing to provide scalable solutions for rendering real-time Global Illumination (GI).
+  topics:
+  - Global Illumination
+  tags: 
+  - C++
+  - Direct3D
+  image: https://raw.githubusercontent.com/NVIDIAGameWorks/RTXGI/main/docs/images/rtxgi-sponza.jpg
+
+- name: SSGI-URP
+  author: demonixis
+  description: Screen Space Global Illumination for Unity Universal Render Pipeline.
+  topics:
+  - Global Illumination
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/demonixis/SSGI-URP/master/Images/ssgi-on.jpg
+
+- name: monte-carlo-ray-tracer
+  author: linusmossberg
+  description: Physically based renderer with Path Tracing and Photon Mapping.
+  topics:
+  - Global Illumination
+  tags: 
+  - C++
+  - OpenGL
+  image: https://camo.githubusercontent.com/9ed9ae29dfab8c70f0bc7aeb1a9df02909d1c381ae1d7d2f59f614eb4570af99/68747470733a2f2f692e696d6775722e636f6d2f72535679766c302e6a7067

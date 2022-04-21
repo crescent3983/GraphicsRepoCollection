@@ -9,6 +9,8 @@
   image: assets/topics/fluid.png
 - name: Fur and Hair
   image: assets/topics/fur_hair.png 
+- name: Global Illumination
+  image: assets/topics/global-illumination.png
 - name: Image Effects
   image: assets/topics/image-effect.png
 - name: Modeling

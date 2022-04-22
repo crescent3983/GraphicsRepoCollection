@@ -5,6 +5,8 @@
   image: assets/topics/ambient-occlusion.png
 - name: Animation
   image: assets/topics/animation.png
+- name: Cloth
+  image: assets/topics/cloth.png
 - name: Fluid
   image: assets/topics/fluid.png
 - name: Fur and Hair

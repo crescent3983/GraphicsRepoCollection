@@ -38,3 +38,12 @@
   - C++
   - Direct3D
   image: https://gpuopen.com/wp-content/uploads/2020/02/shadowfx_screenshot.jpg
+
+- name: RaytracedHardShadow
+  author: unity3d-jp
+  description: DXR based raytraced hard shadow for Unity.
+  topics:
+  - Shadows
+  tags: 
+  - Unity
+  image: https://user-images.githubusercontent.com/1488611/60965577-1ca89700-a351-11e9-9b7d-962a6a7e1aed.png

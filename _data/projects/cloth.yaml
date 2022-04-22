@@ -7,3 +7,42 @@
   tags: 
   - C++
   image: 
+
+- name: libwetcloth
+  author: nepluno
+  description: A Multi-Scale Model for Simulating Liquid-Fabric Interactions.
+  topics:
+  - Cloth
+  tags: 
+  - C++
+  - OpenGL
+  image: https://camo.githubusercontent.com/a1941ad521f3be238fe392c38004e9437e74e2b8c80be4d3bd3ef5e2125b7232/687474703a2f2f7777772e63732e636f6c756d6269612e6564752f63672f7261796d6f6e642f7469676874656e5f7468655f746f77656c2e6a7067
+
+- name: Fusion
+  author: Ninjajie
+  description: Unity Physics on GPU.
+  topics:
+  - Cloth
+  - Fluid
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/Ninjajie/Fusion/master/DemoImages/WideRes.gif
+
+- name: FastMassSpring
+  author: sam007961
+  description: Interactive cloth simulator using the method described in the SIGGRAPH paper "Fast Simulation of Mass-Spring Systems".
+  topics:
+  - Cloth
+  tags: 
+  - C++
+  - OpenGL
+  image: https://user-images.githubusercontent.com/24758349/79005924-9d0a5b80-7b60-11ea-8ce4-d9fc683441d7.gif
+
+- name: GPU-Cloth-Simulation
+  author: JUSTIVE
+  description: GPU Mass-Spring Simulation Cloth in Unity.
+  topics:
+  - Cloth
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/JUSTIVE/GPU-Cloth-Simulation/master/imgres/main.png

@@ -58,3 +58,12 @@
   tags: 
   - Unity
   image: https://raw.githubusercontent.com/MaxwellGengYF/Unity-Volumetric-Light/master/demo0.png
+
+- name: VolumetricLighting
+  author: Unity-Technologies
+  description: Lighting effects implemented for the Adam demo - volumetric fog, area lights and tube lights.
+  topics:
+  - Volume rendering
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/f474743e7d9f47329f31d516987f1709803ea3c05fce7c9008c086f2ce358f44/687474703a2f2f692e696d6775722e636f6d2f487877416566422e706e67

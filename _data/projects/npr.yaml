@@ -43,3 +43,12 @@
   tags: 
   - Unity
   image: https://raw.githubusercontent.com/JasonMa0012/JasonMaToonRenderPipeline/0.1/image/README/1647811386474.png
+
+- name: NPR_Lab
+  author: candycat1992
+  description: Test some NPR in Unity.
+  topics:
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/candycat1992/NPR_Lab/master/SceneImages/AntialiasedCelShadingScene.png

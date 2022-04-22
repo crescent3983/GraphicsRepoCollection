@@ -55,3 +55,12 @@
   tags: 
   - Unity
   image: https://raw.githubusercontent.com/EricFreeman/DynamicDecals/master/dynamic-decals.jpg
+
+- name: POMUnity
+  author: hamish-milne
+  description: Parallax Occlusion Mapping shader.
+  topics:
+  - Texturing
+  tags: 
+  - Unity
+  image: 

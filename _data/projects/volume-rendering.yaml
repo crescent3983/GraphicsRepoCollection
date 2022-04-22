@@ -47,3 +47,12 @@
   tags: 
   - Unity
   image: https://raw.githubusercontent.com/mlavik1/UnityVolumeRendering/master/Screenshots/front.jpg
+
+- name: Unity-Volumetric-Light
+  author: MaxwellGengYF
+  description: A powerful volumetric light plugin based on post-processing in Unity3D.
+  topics:
+  - Volume rendering
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/MaxwellGengYF/Unity-Volumetric-Light/master/demo0.png

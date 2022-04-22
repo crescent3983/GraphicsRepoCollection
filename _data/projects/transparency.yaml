@@ -1,0 +1,18 @@
+---
+- name: vk_order_independent_transparency
+  author: nvpro-samples
+  description: Demonstrates seven different techniques for order-independent transparency in Vulkan.
+  topics:
+  - Transparency 
+  tags: 
+  - C++
+  image: https://raw.githubusercontent.com/nvpro-samples/vk_order_independent_transparency/master/doc/vk_order_independent_transparency.png
+
+- name: OIT_Lab
+  author: candycat1992
+  description: Order-independent Transparent in Unity.
+  topics:
+  - Transparency 
+  tags: 
+  - Unity
+  image: https://github.com/candycat1992/OIT_Lab/raw/master/Screenshots/WeightedBlended.gif

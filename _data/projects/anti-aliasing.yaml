@@ -28,3 +28,23 @@
   - WebGL
   - FXAA
   image: https://raw.githubusercontent.com/mattdesl/glsl-fxaa/master/demo/screen.png
+
+- name: CMAA2
+  author: GameTechDev
+  description: Conservative Morphological Anti-Aliasing 2.0.
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - C++
+  - CMAA
+  image: https://raw.githubusercontent.com/GameTechDev/CMAA2/master/screenshot.jpg
+
+- name: TAA
+  author: GameTechDev
+  description: Intel® Graphics Optimized Temporal Anti-Aliasing.
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - C++
+  - TAA
+  image: 

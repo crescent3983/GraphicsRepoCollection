@@ -38,3 +38,22 @@
   - C++
   - CACAO
   image: https://raw.githubusercontent.com/GPUOpen-Effects/FidelityFX-CACAO/master/sample/screenshot.png
+
+- name: XeGTAO
+  author: GameTechDev
+  description: An implementation of the Practical Realtime Strategies for Accurate Indirect Occlusion, GTAO, a screen space effect suitable for use on a wide range of modern PC integrated and discrete GPUs.
+  topics:
+  - Ambient Occlusion
+  tags: 
+  - C++
+  - GTAO
+  image: https://raw.githubusercontent.com/GameTechDev/XeGTAO/master/Images/exterior-assao-medium-vs-gtao-high.png
+
+- name: Unity-Ground-Truth-Ambient-Occlusion
+  author: MaxwellGengYF
+  description: A physically based screen space ambient occulsion post processing effect.
+  topics:
+  - Ambient Occlusion
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion/master/Final.png

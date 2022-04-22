@@ -36,6 +36,7 @@
   - Anti-Aliasing
   tags: 
   - C++
+  - Direct3D
   - CMAA
   image: https://raw.githubusercontent.com/GameTechDev/CMAA2/master/screenshot.jpg
 
@@ -46,5 +47,6 @@
   - Anti-Aliasing
   tags: 
   - C++
+  - Direct3D
   - TAA
   image: 

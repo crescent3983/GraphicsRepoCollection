@@ -15,6 +15,7 @@
   - Terrain
   tags: 
   - C++
+  - Direct3D
   image: 
 
 - name: MightyTerrainMesh

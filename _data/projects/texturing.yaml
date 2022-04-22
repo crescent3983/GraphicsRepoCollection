@@ -27,6 +27,7 @@
   - Texturing
   tags: 
   - C++
+  - OpenGL
   image: 
 
 - name: UnityURPUnlitScreenSpaceDecalShader

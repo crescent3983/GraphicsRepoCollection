@@ -4,7 +4,26 @@
   description: A middleware library and sample application for high-quality skin and eye rendering.
   topics:
   - Subsurface scattering
-  - Skin
   tags: 
   - C++
+  - Direct3D
   image: https://raw.githubusercontent.com/NVIDIAGameWorks/FaceWorks/master/doc/images/sss_comparison.png
+
+- name: CP_SSSSS
+  author: CustomPhase
+  description: Naive screen-space subsurface scattering solution for Unity 5.
+  topics:
+  - Subsurface scattering
+  tags: 
+  - Unity
+  image: https://camo.githubusercontent.com/fec5cdd85ddd539b9095bb8259d1cb011c2ba4a2e52a2e5293e2a6f307b53670/687474703a2f2f637573746f6d70686173652e72752f646f776e6c6f61642f696d672f43505f53535353535f312e504e47
+
+- name: Separable-Subsurface-Scattering-Demo
+  author: DoerriesT
+  description: Implementation of the Separable Subsurface Scattering technique from http://www.iryoku.com/separable-sss/.
+  topics:
+  - Subsurface scattering
+  tags: 
+  - C++
+  - Vulkan
+  image: https://raw.githubusercontent.com/DoerriesT/Separable-Subsurface-Scattering-Demo/master/sss0on.png

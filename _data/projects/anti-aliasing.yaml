@@ -50,3 +50,21 @@
   - Direct3D
   - TAA
   image: 
+
+- name: FidelityFX-FSR
+  author: GPUOpen-Effects
+  description: FidelityFX Super Resolution.
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - C
+  image: https://raw.githubusercontent.com/GPUOpen-Effects/FidelityFX-FSR/master/screenshot.png
+
+- name: DLSS
+  author: NVIDIA
+  description: A new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games.
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - C
+  image: https://github.com/NVIDIAGameWorks/NVIDIAImageScaling/raw/main/samples/media/images/1080.png

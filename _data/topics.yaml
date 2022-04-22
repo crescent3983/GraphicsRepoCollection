@@ -25,6 +25,8 @@
   image: assets/topics/reflection.png 
 - name: Shadows
   image: assets/topics/shadows.png
+- name: Subsurface scattering
+  image: assets/topics/subsurface-scattering.png
 - name: Terrain
   image: assets/topics/terrain.png
 - name: Texturing

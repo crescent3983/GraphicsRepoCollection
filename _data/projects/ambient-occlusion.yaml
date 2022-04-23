@@ -6,7 +6,7 @@
   - Ambient Occlusion
   tags: 
   - C++
-  - Direct3D
+  - DirectX
   - HBAO+
   image: https://developer.nvidia.com/sites/default/files/akamai/HBAO.jpg
 
@@ -37,7 +37,7 @@
   - Ambient Occlusion
   tags: 
   - C++
-  - Direct3D
+  - DirectX
   - CACAO
   image: https://raw.githubusercontent.com/GPUOpen-Effects/FidelityFX-CACAO/master/sample/screenshot.png
 
@@ -48,7 +48,7 @@
   - Ambient Occlusion
   tags: 
   - C++
-  - Direct3D
+  - DirectX
   - GTAO
   image: https://raw.githubusercontent.com/GameTechDev/XeGTAO/master/Images/exterior-assao-medium-vs-gtao-high.png
 

@@ -6,7 +6,7 @@
   - Subsurface scattering
   tags: 
   - C++
-  - Direct3D
+  - DirectX
   image: https://raw.githubusercontent.com/NVIDIAGameWorks/FaceWorks/master/doc/images/sss_comparison.png
 
 - name: CP_SSSSS

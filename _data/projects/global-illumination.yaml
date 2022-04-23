@@ -35,7 +35,7 @@
   - Global Illumination
   tags: 
   - C++
-  - Direct3D
+  - DirectX
   image: https://raw.githubusercontent.com/NVIDIAGameWorks/RTXGI/main/docs/images/rtxgi-sponza.jpg
 
 - name: SSGI-URP

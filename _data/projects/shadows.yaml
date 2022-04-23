@@ -16,7 +16,7 @@
   - Shadows
   tags: 
   - C++
-  - Direct3D
+  - DirectX
   image: https://therealmjp.github.io/images/converted/shadow-sample-update/msm-comparison-02-grid.png
 
 - name: opengl-shadowmapping
@@ -36,7 +36,7 @@
   - Shadows
   tags: 
   - C++
-  - Direct3D
+  - DirectX
   image: https://gpuopen.com/wp-content/uploads/2020/02/shadowfx_screenshot.jpg
 
 - name: RaytracedHardShadow

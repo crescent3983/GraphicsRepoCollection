@@ -25,3 +25,12 @@
   tags: 
   - C++
   image: https://raw.githubusercontent.com/google/filament/main/docs/images/samples/example_materials1.jpg
+
+- name: pbrt-v3
+  author: mmp
+  description: Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering From Theory To Implementation"
+  topics:
+  - Physically based rendering
+  tags: 
+  - C++
+  image: https://pbrt.org/scenes-v3_images/bathroom.jpg

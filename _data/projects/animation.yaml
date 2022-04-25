@@ -79,3 +79,12 @@
   tags: 
   - Unity
   image: https://github.com/maxartz15/VertexAnimation/raw/master/Documentation~/Images/ProjectCastle_01.gif
+  
+- name: Animation-Texture-Baker
+  author: sugi-cho
+  description: Bake vertex of Animation(legacy) to Texture2D.
+  topics:
+  - Animation
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/sugi-cho/Animation-Texture-Baker/master/imgs/animated.gif

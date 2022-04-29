@@ -28,6 +28,7 @@
   tags: 
   - C++
   - OpenGL
+  - Virtual Texture
   image: 
 
 - name: UnityURPUnlitScreenSpaceDecalShader
@@ -37,6 +38,7 @@
   - Texturing
   tags: 
   - Unity
+  - Decal
   image: https://camo.githubusercontent.com/62703eb6811ee4b633b70530b4fa55ea624dc31128d016ab6995cd9e68fdc420/68747470733a2f2f692e696d6775722e636f6d2f6a5952547170522e706e67
 
 - name: unity-dithered-transparency-shader
@@ -55,6 +57,7 @@
   - Texturing
   tags: 
   - Unity
+  - Decal
   image: https://raw.githubusercontent.com/EricFreeman/DynamicDecals/master/dynamic-decals.jpg
 
 - name: POMUnity
@@ -64,4 +67,16 @@
   - Texturing
   tags: 
   - Unity
+  - POM
+  image: 
+
+- name: DeferredTexturing
+  author: TheRealMJP
+  description: A rendering sample that demonstrates bindless deferred texturing using D3D12.
+  topics:
+  - Texturing
+  tags: 
+  - C++
+  - DirectX
+  - Deferred Texturing
   image: 

@@ -68,3 +68,12 @@
   tags: 
   - C
   image: https://github.com/NVIDIAGameWorks/NVIDIAImageScaling/raw/main/samples/media/images/1080.png
+
+- name: TAA_Unity_URP
+  author: sienaiwun
+  description: Temporal Anti-Aliasing(TAA) for Unity’s Universal Render Pipeline.
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/sienaiwun/publicImgs/master/imgs/TAA/TAA.png

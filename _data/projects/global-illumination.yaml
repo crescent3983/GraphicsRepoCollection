@@ -56,3 +56,13 @@
   - C++
   - OpenGL
   image: https://camo.githubusercontent.com/9ed9ae29dfab8c70f0bc7aeb1a9df02909d1c381ae1d7d2f59f614eb4570af99/68747470733a2f2f692e696d6775722e636f6d2f72535679766c302e6a7067
+
+- name: Light-Propagation-Volumes
+  author: djbozkosz
+  description: Light Propagation Volumes.
+  topics:
+  - Global Illumination
+  tags: 
+  - C++
+  - OpenGL
+  image: https://camo.githubusercontent.com/b9150edd4a6beddee0e4a384e2c2d14dd5b243287a5efd40dc1b3a1c64991e21/68747470733a2f2f7333322e706f7374696d672e63632f396e703677627777352f6c70765f67697430312e6a7067

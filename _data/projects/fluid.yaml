@@ -63,3 +63,13 @@
   tags: 
   - Unity
   image: https://raw.githubusercontent.com/Scrawk/PBD-Fluid-in-Unity/master/Media/PBDFluid1.jpg
+
+- name: water-urp
+  author: daniel-ilett
+  description: A stylised water shader for Unity's Universal Render Pipeline.
+  topics:
+  - Fluid
+  - Non-photorealistic rendering
+  tags: 
+  - Unity
+  image: https://danielilett.com/img/tut5/part3-water-full-foam.jpg

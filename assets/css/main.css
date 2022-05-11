@@ -73,6 +73,17 @@
     max-height:100%;
 }
 
+.project-text-item {
+    height: 125px;
+    overflow: hidden;
+}
+
+.project-text-item h3 {
+    height: 40px;
+    overflow: hidden;
+    overflow-wrap: anywhere;
+}
+
 .github {
     color: #24292f;
     background-color: #ebf0f4;

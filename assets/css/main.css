@@ -82,6 +82,7 @@
     height: 40px;
     overflow: hidden;
     overflow-wrap: anywhere;
+    word-break: break-all;
 }
 
 .github {

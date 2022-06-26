@@ -60,6 +60,16 @@
   - C
   image: https://raw.githubusercontent.com/GPUOpen-Effects/FidelityFX-FSR/master/screenshot.png
 
+- name: FidelityFX-FSR2
+  author: GPUOpen-Effects
+  description: FidelityFX Super Resolution 2.
+  topics:
+  - Anti-Aliasing
+  tags: 
+  - C
+  - C++
+  image: https://raw.githubusercontent.com/GPUOpen-Effects/FidelityFX-FSR2/master/screenshot.png
+
 - name: DLSS
   author: NVIDIA
   description: A new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games.

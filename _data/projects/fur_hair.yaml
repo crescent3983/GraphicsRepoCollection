@@ -18,6 +18,15 @@
   - Unity
   image: https://raw.githubusercontent.com/Sorumi/UnityFurShader/master/Docs/Fur_0_1_Basic.png
 
+- name: UnityFurURP
+  author: hecomi
+  description: Fur shader implementation for URP.
+  topics:
+  - Fur and Hair
+  tags: 
+  - Unity
+  image: https://raw.githubusercontent.com/wiki/hecomi/UnityFurURP/Screenshot2.gif
+
 - name: vkhr
   author: CaffeineViking
   description: Real-Time Hybrid Hair Rendering using Vulkan.

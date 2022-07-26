@@ -1,0 +1,94 @@
+.w3-theme-tag-on {color:#fff !important; background-color:#3577be !important}
+.w3-theme-tag-off {color:#fff !important; background-color:#444 !important}
+
+.w3-hover-text-project-title:hover { color: #8bc34a!important; }
+.w3-text-project-title { color: #4CAF50!important; }
+
+.header-panel a { 
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header-panel img {
+    display: inline-block;
+    width: 80px;
+}
+
+.header-panel h2:after {
+    content: "";
+    display: block;
+    width: 70px;
+    height: 4px;
+    margin-top: 10px;
+    margin-left: 3px;
+    background: rgba(255, 255, 255, 0.72);
+}
+
+.topic-item a {
+    display: inline-block;
+    height: 150px;
+}
+
+.topic-item img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    max-width:100%;
+    max-height:100%;
+}
+
+.topic-item div {
+    height: 82px;
+}
+
+.tag-group {
+    margin: auto; width: 100%;
+}
+
+@media (min-width: 601px) {
+    .tag-group {
+        margin: auto; width: 70%;
+    }
+}
+
+@media (min-width: 993px) {
+    .tag-group {
+        margin: auto; width: 50%;
+    }
+}
+
+.project-item.not-show { display: none; }
+
+.project-image-item {
+    height: 210px;
+    width: 30%;
+}
+
+.project-image-item img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    max-width:100%;
+    max-height:100%;
+}
+
+.project-text-item {
+    height: 125px;
+    overflow: hidden;
+}
+
+.project-text-item h3 {
+    height: 40px;
+    overflow: hidden;
+    overflow-wrap: anywhere;
+    word-break: break-all;
+}
+
+.github {
+    color: #24292f;
+    background-color: #ebf0f4;
+	padding: 4px 5px;
+	border-radius: .25em;
+	text-decoration: none;
+}

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Graphics Repository</title>
+    <description>A collection of awesome computer graphics projects on Github</description>
+    <link>https://crescent3983.github.io/</link>
+    <atom:link href="https://crescent3983.github.io/GraphicsRepoCollection/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Dec 2023 03:16:52 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2023 03:16:52 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Anti-Aliasing</title>
+        <description>Anti-Aliasing</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Anti-Aliasing.html</link>
+      </item>
+    
+      <item>
+        <title>Ambient Occlusion</title>
+        <description>Ambient Occlusion</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Ambient Occlusion.html</link>
+      </item>
+    
+      <item>
+        <title>Animation</title>
+        <description>Animation</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Animation.html</link>
+      </item>
+    
+      <item>
+        <title>Cloth</title>
+        <description>Cloth</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Cloth.html</link>
+      </item>
+    
+      <item>
+        <title>Fluid</title>
+        <description>Fluid</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Fluid.html</link>
+      </item>
+    
+      <item>
+        <title>Fur and Hair</title>
+        <description>Fur and Hair</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Fur and Hair.html</link>
+      </item>
+    
+      <item>
+        <title>Global Illumination</title>
+        <description>Global Illumination</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Global Illumination.html</link>
+      </item>
+    
+      <item>
+        <title>Image Effects</title>
+        <description>Image Effects</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Image Effects.html</link>
+      </item>
+    
+      <item>
+        <title>Modeling</title>
+        <description>Modeling</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Modeling.html</link>
+      </item>
+    
+      <item>
+        <title>Non-photorealistic rendering</title>
+        <description>Non-photorealistic rendering</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Non-photorealistic rendering.html</link>
+      </item>
+    
+      <item>
+        <title>Physically based rendering</title>
+        <description>Physically based rendering</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Physically based rendering.html</link>
+      </item>
+    
+      <item>
+        <title>Ray Marching</title>
+        <description>Ray Marching</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Ray Marching.html</link>
+      </item>
+    
+      <item>
+        <title>Reflection</title>
+        <description>Reflection</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Reflection.html</link>
+      </item>
+    
+      <item>
+        <title>Shadows</title>
+        <description>Shadows</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Shadows.html</link>
+      </item>
+    
+      <item>
+        <title>Subsurface scattering</title>
+        <description>Subsurface scattering</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Subsurface scattering.html</link>
+      </item>
+    
+      <item>
+        <title>Terrain</title>
+        <description>Terrain</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Terrain.html</link>
+      </item>
+    
+      <item>
+        <title>Texturing</title>
+        <description>Texturing</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Texturing.html</link>
+      </item>
+    
+      <item>
+        <title>Vegetation</title>
+        <description>Vegetation</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Vegetation.html</link>
+      </item>
+    
+      <item>
+        <title>Visual Effects</title>
+        <description>Visual Effects</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Visual Effects.html</link>
+      </item>
+    
+      <item>
+        <title>Volume rendering</title>
+        <description>Volume rendering</description> 
+        <link>https://crescent3983.github.io/GraphicsRepoCollection/topics/Volume rendering.html</link>
+      </item>
+    
+  </channel>
+</rss>
